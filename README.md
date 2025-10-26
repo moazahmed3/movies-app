@@ -40,5 +40,4 @@ The website showcases the latest and upcoming movies with a clean UI, smooth lay
 <img width="1906" height="860" alt="image" src="https://github.com/user-attachments/assets/86427a2c-3f0a-4c44-8fca-b94c2ba129ed" />
 
 
-## 📂 Project Structure
 
